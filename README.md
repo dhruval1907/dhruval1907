@@ -1,5 +1,8 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Dhruval Dalwadi
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello 
 
+
+## My name is Dhruval Dalwadi
+ 
 ## Front End Developer
 
 Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
