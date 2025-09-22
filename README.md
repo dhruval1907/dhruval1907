@@ -46,4 +46,8 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruval1907&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/afdhruval?theme=dark&font=Istok%20Web&ext=activity)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
