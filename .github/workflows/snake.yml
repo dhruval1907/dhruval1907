@@ -2,7 +2,7 @@ name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight
+    - cron: '0 0 * * *' # daily
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
+          github_user_name: dhruval1907
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./snake.svg
+          outputs: snake.svg
+
       - name: Commit and Push
         run: |
           git config --local user.name "github-actions[bot]"
