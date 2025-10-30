@@ -49,5 +49,11 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 ## 🧩 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/afdhruval?theme=dark&font=Istok%20Web&ext=activity)
 
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruval1907/dhruval1907/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
