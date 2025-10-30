@@ -8,11 +8,12 @@
 Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DalwadiDhruval) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -35,7 +36,7 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800px"/>
+      <img src="https://imgs.search.brave.com/0kmOzLeyV9bYm6Pw0Sm-lbXIfzRrzZTPy5AMOfwcDls/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNSEI2Wm10b04z/ZG5kR2w1YTNVNU9X/eG1PRE0yTXpNMmRt/cHhkSE0zTUdkeGFq/TjRNREY1Y1NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vRzJjcERGY0t6/QVBNU2NiME1DLzIw/MC5naWY.gif" width="800px"/>
     </td>
   </tr>
 </table>
@@ -49,10 +50,7 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 ## 🧩 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/afdhruval?theme=dark&font=Istok%20Web&ext=activity)
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhruval1907/dhruval1907/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
-</p>
+
 
 
 
