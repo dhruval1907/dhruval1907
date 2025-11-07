@@ -7,7 +7,7 @@
 
 Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=fadeIn&layout=compact)
+![Quote](https://github-readme-stats.vercel.app/api?dhruval1907=anuraghazra)]
 
 
 ## 🌐 Socials:
