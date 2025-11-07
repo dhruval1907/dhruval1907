@@ -44,23 +44,29 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 </details>
 )
 
-# 📊 GitHub Stats:# 📊 GitHub Stats:
+<details>
+  <summary>📊 GitHub Stats</summary>
 
- <!-- Tech Stack / Stats on top -->
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://imgs.search.brave.com/0kmOzLeyV9bYm6Pw0Sm-lbXIfzRrzZTPy5AMOfwcDls/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNSEI2Wm10b04z/ZG5kR2w1YTNVNU9X/eG1PRE0yTXpNMmRt/cHhkSE0zTUdkeGFq/TjRNREY1Y1NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vRzJjcERGY0t6/QVBNU2NiME1DLzIw/MC5naWY.gif" width="800px"/>
-    </td>
-  </tr>
-</table>
+  <br>
+
+  <!-- GitHub Stats Section -->
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://imgs.search.brave.com/0kmOzLeyV9bYm6Pw0Sm-lbXIfzRrzZTPy5AMOfwcDls/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNSEI2Wm10b04z/ZG5kR2w1YTNVNU9X/eG1PRE0yTXpNMmRt/cHhkSE0zTUdkeGFq/TjRNREY1Y1NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vRzJjcERGY0t6/QVBNU2NiME1DLzIw/MC5naWY.gif" width="800px"/>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
 
 
 
