@@ -2,7 +2,7 @@ Hello! I'm Dhruval Dalwadi
  
 ## Front End Developer
 
-Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
+Self-taught developer from India, learning deeply across the stack and building projects that make a difference.
 
 
 
