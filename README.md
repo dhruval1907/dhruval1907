@@ -59,8 +59,6 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 
 
 
-
----
 <details>
   <summary>🧩 LeetCode Stats</summary>
 
@@ -68,23 +66,19 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 
   <table align="center">
     <tr align="center">
-      <td>
-        <!-- 🖼️ Banner GIF -->
+      <td align="center">
+        <!-- Banner GIF -->
         <img 
           src="https://imgs.search.brave.com/0kmOzLeyV9bYm6Pw0Sm-lbXIfzRrzZTPy5AMOfwcDls/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNSEI2Wm10b04z/ZG5kR2w1YTNVNU9X/eG1PRE0yTXpNMmRt/cHhkSE0zTUdkeGFq/TjRNREY1Y1NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vRzJjcERGY0t6/QVBNU2NiME1DLzIw/MC5naWY.gif" 
-          width="600px" 
+          width="400"
           alt="banner gif"
         />
       </td>
-    </tr>
-
-    <tr align="center">
-      <td>
-        <!-- 💻 LeetCode Stats -->
+      <td align="center">
         <h2>💻 LeetCode Stats</h2>
         <img 
           src="https://leetcard.jacoblin.cool/afdhruval?theme=dark&font=Istok%20Web&ext=activity" 
-          width="500px" 
+          width="400"
           alt="LeetCode Stats"
         />
       </td>
@@ -92,6 +86,8 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
   </table>
 
 </details>
+
+
 
 
 
