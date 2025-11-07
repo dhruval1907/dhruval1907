@@ -9,7 +9,7 @@ Self-taught developer from India, learning deeply across the stack and building 
   <summary>🌐 Socials</summary>
   <br>
 
-  <div align="center">
+  <div align="right">
 
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
