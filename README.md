@@ -13,7 +13,7 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DalwadiDhruval) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907) <br>
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://dhruval1907.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 
 # 💻 Tech Stack:
