@@ -7,6 +7,9 @@
 
 Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=fadeIn&layout=compact)
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/) 
