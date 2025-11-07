@@ -7,7 +7,8 @@
 
 Currently, I’m focusing on deepening my understanding of full-stack development and working on personal and open-source projects. My goal is to contribute to impactful projects and become a skilled developer who creates seamless user experiences.
 
-![Quote](https://github-readme-stats.vercel.app/api?dhruval1907=anuraghazra)]
+![Quote](https://github-readme-stats.vercel.app/api?username=dhruval1907&show_icons=true&theme=radical)
+
 
 
 ## 🌐 Socials:
