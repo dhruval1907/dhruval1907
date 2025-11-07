@@ -1,4 +1,4 @@
-Hello! I'm Piyush Suthar
+Hello! I'm Dhruval Dalwadi
  
 ## Front End Developer
 
@@ -16,16 +16,11 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval) 
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DalwadiDhruval) 
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
-
+  
 </details>
-
-![Profile views](https://komarev.com/ghpvc/?username=dhruval1907&label=Profile%20views&color=0e75b6&style=flat)
-
-
 
 <details>
   <summary>💻 Tech Stack</summary>
-
   <br>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -39,8 +34,6 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
-)
-
 <details>
   <summary>📊 GitHub Stats</summary>
 
@@ -63,6 +56,10 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
   </table>
 
 </details>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=dhruval1907&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
