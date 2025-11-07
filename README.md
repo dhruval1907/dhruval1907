@@ -16,8 +16,7 @@ Currently, I’m focusing on deepening my understanding of full-stack developmen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DalwadiDhruval) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907) <br><br>
-![Profile views](https://komarev.com/ghpvc/?username=dhruval1907&label=Profile%20views&color=0e75b6&style=flat)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907) 
 
 
 
