@@ -2,7 +2,7 @@ Hello! I'm Dhruval Dalwadi
  
 ## Front End Developer
 
-Self-taught developer from India, learning deeply across the stack and building projects that make a difference.
+Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
 
 
 <details>
