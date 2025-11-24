@@ -60,6 +60,10 @@ Self-taught developer from Gujarat, learning deeply across the stack and buildin
 ![Profile views](https://komarev.com/ghpvc/?username=dhruval1907&label=Profile%20views&color=0e75b6&style=flat)
 
 
+### ✍️ Random Dev Quote
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
