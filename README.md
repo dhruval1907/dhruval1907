@@ -47,12 +47,12 @@ Self-taught developer from Gujarat, learning deeply across the stack and buildin
   <table>
     <tr>
       <td colspan="2" align="center">
-
         <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
       </td>
     </tr>
   </table>
+       
 
 </details>
 
