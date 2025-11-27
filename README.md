@@ -57,7 +57,6 @@ Self-taught developer from Gujarat, learning deeply across the stack and buildin
 </details>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=dhruval1907&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ### ✍️ Random Dev Quote
