@@ -25,19 +25,60 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-  <!-- Row (auto-wrap) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
+  <!-- TS -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" />
+  </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" />
+  <!-- HTML -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- CSS -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- JS -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- Java -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- Python -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- Git -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- Tailwind -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- SCSS -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- Bootstrap -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
+  </div>
+
+  <!-- C -->
+  <div style="background:#1a1a1a; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" />
+  </div>
 
 </div>
 
