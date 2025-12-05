@@ -24,7 +24,7 @@
 ## </> Tech-Stack
 <div align="center">
   <div style="display:flex; gap:12px; justify-content:center; margin-bottom:16px;">
-    <div style="background:#0f1117; padding:14px; border-radius:12px;">
+    <div style="background-color:#0f1117; padding:14px; border-radius:12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
     </div>
     <div style="background:#0f1117; padding:14px; border-radius:12px;">
