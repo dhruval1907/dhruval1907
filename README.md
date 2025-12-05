@@ -13,9 +13,10 @@
 
   </div>
 
-  
-Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
-
+  👋 Hi there   
+    • I am a Front-End Developer passionate about crafting clean, modern, and user-focused web interfaces.  
+    • A self-taught developer who loves turning ideas into responsive and interactive web experiences.  
+    • Happy to connect amazing folks and build awesome networks.
 
 
 
