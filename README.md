@@ -22,7 +22,7 @@
 
 
 ## </> Tech-Stack
-<<div align="center">
+<div align="center">
 
   <!-- ROW 1 -->
   <table>
