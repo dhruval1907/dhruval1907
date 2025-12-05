@@ -6,9 +6,9 @@
 
   <div align="center">
 
-  [![X](https://img.shields.io/badge/%20-DalwadiaDhruval-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DalwadiaDhruval)
-  [![Email](https://img.shields.io/badge/%20-dhruvaldalwadi1907@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/%20-Dhruval_Dalwadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
+  [![X](https://img.shields.io/badge/%20-DalwadiaDhruval-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DalwadiaDhruval) &nbsp &nbsp
+  [![Email](https://img.shields.io/badge/%20-dhruvaldalwadi1907@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com) &nbsp &nbsp
+  [![LinkedIn](https://img.shields.io/badge/%20-Dhruval_Dalwadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/) &nbsp &nbsp
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
 
   </div>
