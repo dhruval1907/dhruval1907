@@ -2,19 +2,7 @@
   <img src="banner.png" alt="Dhruval Dalwadi Banner" width="100%" />
 </p>
 
-## Front End Developer
-
-## Front End Developer
-
-Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
-
-
-<details>
-  <summary>🌐 Socials</summary>
-  <br>
-
-
-  <div align="left">
+  <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
@@ -23,7 +11,13 @@ Self-taught developer from Gujarat, learning deeply across the stack and buildin
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
 
   </div>
-</details>
+
+  
+Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
+
+
+
+
 
 <details>
   <summary>💻 Tech Stack</summary>
