@@ -1,5 +1,9 @@
-Hello! I'm Dhruval Dalwadi
- 
+<p align="center">
+  <img src="banner.png" alt="Dhruval Dalwadi Banner" width="100%" />
+</p>
+
+## Front End Developer
+
 ## Front End Developer
 
 Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
