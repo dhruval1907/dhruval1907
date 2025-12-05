@@ -13,7 +13,7 @@
 
   </div>
 
-## <span style="font-weight:600;">Hi there</span>
+## <span style="font-weight:600;font-size:30px">👋Hi there</span>
 
 • I am a **Front-End Developer** by day and a **Passionate Learner** by night.  <br><br>
 • I love crafting clean, modern, and user-focused web interfaces with great attention to detail.  <br><br>
