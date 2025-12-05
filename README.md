@@ -1,13 +1,14 @@
 <p align="center">
   <img src="banner.png" alt="Dhruval Dalwadi Banner" width="100%" />
 </p>
+<br>
+
 
   <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DalwadiaDhruval)
+  [![X](https://img.shields.io/badge/%20-DalwadiaDhruval-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DalwadiaDhruval)
+  [![Email](https://img.shields.io/badge/%20-dhruvaldalwadi1907@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/%20-Dhruval_Dalwadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
 
   </div>
