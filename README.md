@@ -1,82 +1,43 @@
-<p align="center">
-  <img src="banner.png" alt="Dhruval Dalwadi Banner" width="100%" />
-</p>
-<br>
+Hello! I'm Dhruval Dalwadi
+ 
+## Front End Developer
+
+Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
 
 
-  <div align="center">
+<details>
+  <summary>🌐 Socials</summary>
+  <br>
 
-  [![X](https://img.shields.io/badge/%20-DalwadiaDhruval-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DalwadiaDhruval) &nbsp;&nbsp;
-  [![Email](https://img.shields.io/badge/%20-dhruvaldalwadi1907@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com) &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/%20-Dhruval_Dalwadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/) &nbsp;&nbsp;
+
+  <div align="left">
+
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DalwadiaDhruval)
   [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
 
   </div>
+</details>
 
-## <span style="font-weight:600;font-size:30px">👋Hi there</span>
-
-• I am a **Front-End Developer** by day and a **Passionate Learner** by night.  <br><br>
-• I love crafting clean, modern, and user-focused web interfaces with great attention to detail.  <br><br>
-• A **self-taught developer** focused on building responsive and interactive web experiences.  <br><br>
-• Happy to connect with amazing folks and build an inspiring professional network.
-
-
-## </> Tech-Stack
-<div align="center">
-
-  <!-- ROW 1 -->
-  <table>
-    <tr>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-      </td>
-    </tr>
-  </table>
-
+<details>
+  <summary>💻 Tech Stack</summary>
   <br>
 
-  <!-- ROW 2 -->
-  <table>
-    <tr>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-      </td>
-      <td style="background:#0f1117; padding:14px; border-radius:12px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-      </td>
-    </tr>
-  </table>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
-
-
+</details>
 <details>
   <summary>📊 GitHub Stats</summary>
 
