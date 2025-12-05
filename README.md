@@ -21,9 +21,9 @@
 • Happy to connect with amazing folks and build an inspiring professional network.
 
 
-<details>
-  <summary>💻 Tech Stack</summary>
-  <br>
+## </> Tech-Stack
+
+<div align="center">
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -37,7 +37,8 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</details>
+</div>
+
 <details>
   <summary>📊 GitHub Stats</summary>
 
