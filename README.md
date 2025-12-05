@@ -13,12 +13,12 @@
 
   </div>
 
-  👋 Hi there   
-    • I am a Front-End Developer passionate about crafting clean, modern, and user-focused web interfaces.  
-    • A self-taught developer who loves turning ideas into responsive and interactive web experiences.  
-    • Happy to connect amazing folks and build awesome networks.
+## <span style="font-weight:600;">Hi there</span>
 
-
+• I am a **Front-End Developer** by day and a **Passionate Learner** by night.  <br><br>
+• I love crafting clean, modern, and user-focused web interfaces with great attention to detail.  <br><br>
+• A **self-taught developer** focused on building responsive and interactive web experiences.  <br><br>
+• Happy to connect with amazing folks and build an inspiring professional network.
 
 
 <details>
